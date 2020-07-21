@@ -155,6 +155,7 @@
 0.0.0.0 www.vfthr.com
 0.0.0.0 sa800.com
 0.0.0.0 dubai9999.com
+0.0.0.0 www.dubai9999.com
 0.0.0.0 www.lottothaibet.com
 0.0.0.0 sexygame66.com
 0.0.0.0 slot191.com
@@ -162,3 +163,18 @@
 0.0.0.0 www.ssgame350.com
 0.0.0.0 dooball66.com
 0.0.0.0 www.score350.com
+0.0.0.0 www.sexyauto168.com
+0.0.0.0 www.pussy888win.com
+0.0.0.0 www.winbetth888.com
+0.0.0.0 pgslot99.com
+0.0.0.0 www.prettygame77.com
+0.0.0.0 sagame77.com
+0.0.0.0 www.joker123auto.com
+0.0.0.0 www.live22auto.com
+0.0.0.0 www.918kissauto.com
+0.0.0.0 slotxoauto.com
+0.0.0.0 pgslot77.com
+0.0.0.0 www.prettygame69.com
+0.0.0.0 aff.igoal88.link
+0.0.0.0 igoal88.link
+0.0.0.0 (\.|^)slotxovip\.com$
