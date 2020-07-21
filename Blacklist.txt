@@ -140,13 +140,10 @@
 0.0.0.0 aplhabet.applinzi.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 postback.applinzi.com
-0.0.0.0 api.bignox.com
 0.0.0.0 api-new.bignox.com
 0.0.0.0 bianxian-log.bignox.com
-0.0.0.0 res.noxmobi.com
 0.0.0.0 noxagile.bceapp.com
 0.0.0.0 api.noxinfluencer.com
-0.0.0.0 appcenter-api.bignox.com
 0.0.0.0 storage.adxadtracker.com
 0.0.0.0 adxadtracker.com
 0.0.0.0 r.trwl1.com
