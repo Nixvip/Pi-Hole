@@ -177,4 +177,4 @@
 0.0.0.0 www.prettygame69.com
 0.0.0.0 aff.igoal88.link
 0.0.0.0 igoal88.link
-0.0.0.0 (\.|^)slotxovip\.com$
+(\.|^)slotxovip\.com$
