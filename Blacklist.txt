@@ -1,3 +1,9 @@
+#Title: Pi-Hole Blocklist by 2RD
+#Description: Pi-Hole Blocklist in Thailand
+#Author: 2RD
+#@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Blacklist.txt
+#Updated: 22/07/2020
+#---------------------
 0.0.0.0 trafficjunky.net
 0.0.0.0 contentabc.com
 0.0.0.0 2020mustang.com
@@ -177,4 +183,5 @@
 0.0.0.0 www.prettygame69.com
 0.0.0.0 aff.igoal88.link
 0.0.0.0 igoal88.link
-(\.|^)slotxovip\.com$
+0.0.0.0 slotxovip.com
+0.0.0.0 www.slotxovip.com
