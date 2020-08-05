@@ -26,7 +26,6 @@
 0.0.0.0 www.ballthai999.com
 0.0.0.0 m.ballthai999.com
 0.0.0.0 record.income88.com
-0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 cdn.installsadsprotectnew.club
 0.0.0.0 installsadsprotectnew.club
 0.0.0.0 trk.although-soft-sharp-nothing.xyz
