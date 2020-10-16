@@ -5,6 +5,10 @@
 #Updated: 22/07/2020
 #---------------------
 127.0.0.1 api.bignox.com
+127.0.0.1 api-new.bignox.com
+127.0.0.1 launcher-api.bignox.com
+127.0.0.1 tracking.apptrackerlink.com
+127.0.0.1 v3m.gtarcade.com
 127.0.0.1 tracking.trnox.com
 127.0.0.1 bi.yeshen.com
 127.0.0.1 launcher.us.yeshen.com
