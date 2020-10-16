@@ -137,7 +137,6 @@
 0.0.0.0 www.slot1234.net
 0.0.0.0 member.ufabet168.info
 0.0.0.0 ufabet168.info
-0.0.0.0 adabdapi.ldmnq.com
 0.0.0.0 trnox.com
 0.0.0.0 launcher-us.yeshen.com
 0.0.0.0 googleclubstore.com
