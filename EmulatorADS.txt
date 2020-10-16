@@ -2,7 +2,7 @@
 #Description: Pi-Hole Block Emulator ADS in Thailand
 #Author: 2RD
 #@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/EmulatorADS.txt
-#Updated: 22/07/2020
+#Updated: 16/10/2020
 #---------------------
 127.0.0.1 api.bignox.com
 127.0.0.1 api-new.bignox.com
