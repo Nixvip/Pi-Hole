@@ -1,7 +1,7 @@
-#Title: Pi-Hole Block Nox ADS by 2RD
-#Description: Pi-Hole Block Nox ADS in Thailand
+#Title: Pi-Hole Block Emulator ADS by 2RD
+#Description: Pi-Hole Block Emulator ADS in Thailand
 #Author: 2RD
-#@ GitLab : 
+#@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/EmulatorADS.txt
 #Updated: 22/07/2020
 #---------------------
 127.0.0.1 api.bignox.com
@@ -23,3 +23,4 @@
 127.0.0.1 alog.umeng.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 androiden.duapp.com
+127.0.0.1 adabdapi.ldmnq.com
