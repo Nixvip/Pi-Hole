@@ -1082,7 +1082,6 @@
 0.0.0.0 sap.spotify.com                             # sap server, erp system, links to sto3-weblb-wg6.sto3.spotify.com (stockholm)
 0.0.0.0 sap-testing.spotify.com                     # sap test server, enterprise reource planning (erp), links to gew.weblb-wg.spotify.com
 0.0.0.0 shrt.spotify.com                            # spotify t-shirts, links to weblb-wg.dual-gslb.spotify.com
-0.0.0.0 spclient.wg.spotify.com                     # client connections gateway (blocking will eliminate ad intro but breaks app)
 0.0.0.0 spclient-canary.wg.spotify.com              # client connections beta gateway, links to 62.224.186.35.bc.googleusercontent.com
 0.0.0.0 speech-recognition.spotify.com              # speech for car mode?, links to weblb-wg.dual-gslb.spotify.com
 0.0.0.0 spotify.com                                 # spotify domain (dns is with google)
