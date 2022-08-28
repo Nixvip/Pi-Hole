@@ -1,0 +1,10 @@
+#Title: Pi-Hole Blocklist by 2RD
+#Description: Pi-Hole Block Fakenews ASD in Thailand
+#Author: 2RD
+#@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Fakenews.txt
+#Updated: 30/08/2022
+#---------------------
+0.0.0.0 line.me/R/ti/p/@269wpxdu
+0.0.0.0 line.me/R/ti/p/@385qjepf
+0.0.0.0 pg-slots1.com
+0.0.0.0 ufabetall.net
