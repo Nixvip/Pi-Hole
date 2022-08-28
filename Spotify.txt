@@ -1,7 +1,7 @@
 #Title: Pi-Hole Blocklist by 2RD
 #Description: Pi-Hole Block Spotify ASD in Thailand
 #Author: 2RD
-#@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Blacklist.txt
+#@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Spotify.txt
 #Updated: 19/09/2021
 #---------------------
 0.0.0.0 adclick.g.doublecklick.net
