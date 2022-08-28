@@ -4,7 +4,21 @@
 #@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Fakenews.txt
 #Updated: 30/08/2022
 #---------------------
-0.0.0.0 line.me/R/ti/p/@269wpxdu
-0.0.0.0 line.me/R/ti/p/@385qjepf
 0.0.0.0 pg-slots1.com
 0.0.0.0 ufabetall.net
+0.0.0.0 reurl.cc
+0.0.0.0 blogspot.com
+0.0.0.0 bangkok-new.blogspot.com
+0.0.0.0 bangkok.blogspot.com
+0.0.0.0 speechfountaindigestion.com
+0.0.0.0 wbze.de
+0.0.0.0 sa.com
+0.0.0.0 sock.sa.com
+0.0.0.0 cdbbed908.sock.sa.com
+0.0.0.0 amarin1.blogspot.com
+0.0.0.0 amarin2.blogspot.com
+0.0.0.0 amarin3.blogspot.com
+0.0.0.0 amarin4.blogspot.com
+0.0.0.0 amarin5.blogspot.com
+0.0.0.0 amarin6.blogspot.com
+0.0.0.0 amarin7.blogspot.com
