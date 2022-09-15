@@ -21,3 +21,8 @@
 0.0.0.0 3c5.com
 0.0.0.0 citly.me
 0.0.0.0 2rx.cc
+0.0.0.0 bitly.lc
+0.0.0.0 oyn.at
+0.0.0.0 ru.com
+0.0.0.0 spoil.ru.com
+0.0.0.0 f2f3482e.spoil.ru.com
