@@ -4,6 +4,7 @@
 #@ GitLab : https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Fakenews.txt
 #Updated: 30/08/2022
 #---------------------
+#ข่าวปลอม
 0.0.0.0 pg-slots1.com
 0.0.0.0 ufabetall.net
 0.0.0.0 reurl.cc
@@ -27,3 +28,34 @@
 0.0.0.0 spoil.ru.com
 0.0.0.0 f2f3482e.spoil.ru.com
 0.0.0.0 wbze.de
+#---------------------
+#เว็บพนัน
+0.0.0.0 m.joker123th.com
+0.0.0.0 joker123th.com
+0.0.0.0 grorp-ab.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 sexygame992.com
+0.0.0.0 hydra8882.com
+0.0.0.0 brazil999.co
+0.0.0.0 lockdown1681.com
+0.0.0.0 london1681.com
+0.0.0.0 aoxx69.net
+0.0.0.0 qq101.com
+0.0.0.0 pay69.vip
+0.0.0.0 www.sbfplay99.com
+0.0.0.0 sbfplay99.com
+0.0.0.0 www.heng99.com
+0.0.0.0 heng99.com
+0.0.0.0 qq288we.com
+0.0.0.0 116lotto.com
+0.0.0.0 lucky135.com
+0.0.0.0 meyou147.com
+0.0.0.0 www.dfthclub99.com
+0.0.0.0 dfthclub99.com
+0.0.0.0 empire777ads.com
+0.0.0.0 slotnexobet.com
+0.0.0.0 huc33.com
+0.0.0.0 www.huc33.com
+0.0.0.0 ufanance.co
+0.0.0.0 ufazeed1.com
+0.0.0.0 www.ufazeed1.com
+0.0.0.0 df011.com
