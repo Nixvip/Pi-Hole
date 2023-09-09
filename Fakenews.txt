@@ -28,6 +28,7 @@
 0.0.0.0 spoil.ru.com
 0.0.0.0 f2f3482e.spoil.ru.com
 0.0.0.0 wbze.de
+0.0.0.0 wee.so
 #---------------------
 #เว็บพนัน
 0.0.0.0 m.joker123th.com
